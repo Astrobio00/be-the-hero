@@ -1,3 +1,6 @@
+# * Projeto Ainda Inacabado *
+Ainda estamos durante a semana inicial de desenvolvimento do projeto. Neste momento, a aplicação React e React Native ainda não se encontra disponível
+
 # Be The Hero
 Um sistema onde ONGs de todos os estados podem cadastrar casos para que estes sejam rapidamente solucionados.
 
